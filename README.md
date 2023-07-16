@@ -46,6 +46,8 @@ An alternate for Standard C++ Pair [**`std::pair<T1, T2>`**](https://cplusplus.c
   - ### Constructors
   - ```C#
     public Pairs(IEnumerable<Pair<TF, TS>> pairsArg, uint maximumSizeArg = 10000);
+    ```
+  - ```C#
     public Pairs(uint maximumSizeArg = 10000);
     ```
     <br>
